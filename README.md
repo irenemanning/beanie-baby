@@ -1,6 +1,6 @@
-![Alt text](https://user-images.githubusercontent.com/87841931/206652585-13d1b06a-6292-4a95-927b-e94123f5713c.png "README Banner")
+![Beanie Babie Dealership](https://user-images.githubusercontent.com/87841931/206652585-13d1b06a-6292-4a95-927b-e94123f5713c.png "README Banner")
 
-## Hello, I'm Irene!
+## Hello, I'm Irene! ![Magic](https://64.media.tumblr.com/407c399df4c482bdb14643ed4ba9489c/55f9bba375fd71be-0f/s250x400/024c2c10b1d2bee2e6655269746588aeaa075a73.gifv "Magic gif")
 
 ### I am an artist and future developer!
 #### I am currently studying software engineering at Flatiron School. I first learned vanilla JavaScript, then React in the seccond phase, now finishing up the third phase I have created an app with a Ruby and Active Record backend, and a React frontend!
