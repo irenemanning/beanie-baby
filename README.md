@@ -15,5 +15,4 @@
 #### Enter the backend folder in your terminal and run the command "rake db:migrate". After migrating, start the server by typing "bundle exec rake server" or "rake server" in the terminal.
 
 ## Connect
-[![Foo](https://cdn-icons-png.flaticon.com/128/3992/3992606.png)](https://www.linkedin.com/in/irene-manning-3a287021a/)
-
+[<img width="100px" src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png">](https://www.linkedin.com/in/irene-manning-3a287021a/)
