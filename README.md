@@ -14,9 +14,8 @@
 ### Backend
 #### Enter the backend folder in your terminal and run the command "rake db:migrate". After migrating, start the server by typing "bundle exec rake server" or "rake server" in the terminal.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenemanning)](https://github.com/irenemanning/phase-3-sinatra-react-project/tree/02812d95f610e57ce2b3c2982f71b2300510cb86)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenemanning)](https://github.com/irenemanning/beanie-baby)
+[![Top Langs Backend](https://github-readme-stats.vercel.app/api/top-langs/?username=irenemanning)](https://github.com/irenemanning/phase-3-sinatra-react-project)
+[![Top Langs Frontend](https://github-readme-stats.vercel.app/api/top-langs/?username=irenemanning)](https://github.com/irenemanning/beanie-baby)
 
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenemanning&show_icons=true&theme=dark)
 ## Connect
 [<img width="50px" src="https://cdn-icons-png.flaticon.com/128/3992/3992606.png">](https://www.linkedin.com/in/irene-manning-3a287021a/)
