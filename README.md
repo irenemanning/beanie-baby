@@ -1,4 +1,8 @@
 ![Beanie Babie Dealership](https://user-images.githubusercontent.com/87841931/206652585-13d1b06a-6292-4a95-927b-e94123f5713c.png "README Banner")
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E "Javascript")
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "css")
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white "Ruby")
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
 
 ## Hello, I'm Irene! ![Magic](https://64.media.tumblr.com/407c399df4c482bdb14643ed4ba9489c/55f9bba375fd71be-0f/s250x400/024c2c10b1d2bee2e6655269746588aeaa075a73.gifv "Magic gif")
 
