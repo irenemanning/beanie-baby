@@ -12,8 +12,11 @@
 ## What is the Beanie Baby Dealership app, and why is it useful?
 #### Has there ever been a time when you were selling collectable Beanie Babies after your great aunt passed away, and you had many collectors and their collections of Beanie Babies you needed to keep track of? Well, look no further, the Beanie Baby Dealership App is here to help you manage your database of Beanie Babies and collectors. You can add and remove collectors from the database, and you can add, edit, and delete Beanie Babies in each collector's collection.
 ![collectorgif](https://media.giphy.com/media/tiiRBE9oKAFCmrsWLq/giphy.gif "collectorgif")
+<img src="https://media.giphy.com/media/tiiRBE9oKAFCmrsWLq/giphy.gif" width="40" height="40" />
 ![add-beanie-to-collection](https://media.giphy.com/media/gme5rDBiKk9DVO4dmf/giphy.gif "collectorgif")
+<img src="https://media.giphy.com/media/gme5rDBiKk9DVO4dmf/giphy.gif" width="40" height="40" />
 ![edit-beanie](https://media.giphy.com/media/QuRZkBOkNR4uVmDBPd/giphy.gif "collectorgif")
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ## Install
 ### Frontend
