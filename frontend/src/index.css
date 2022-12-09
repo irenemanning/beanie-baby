@@ -1,13 +1,270 @@
-body {
-  margin: 0;
+html, body {
+  min-height: 100%;
+  min-width: 100%; 
+  margin: 0; 
+}
+body { 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.App {
+  text-align: center;
+}
+.app-container {
+  height: 100%;
+  width: 100%;
+  overflow-y: scroll;
+}
+.title {
+  color: white;
+  background: red;
+  border: solid 4px black;
+  width: 30%;
+  padding: 3px;
+  margin: auto;
+  margin-top: 3%;
+  position: relative;
+  display: inline-block;
+}
+.star {
+  display: inline-block;
+  color: yellow;
+  font-size: 100px;
+  margin: 30px; 
+}
+#star-1 {
+  animation: rotate-right 10s infinite linear;
+}
+@keyframes rotate-right {
+  from {transform: rotate(0deg)} to {transform: rotate(360deg)};
+}
+#star-2 {
+  animation: rotate-left 10s infinite linear;
+}
+@keyframes rotate-left {
+  from {transform: rotate(0deg)} to {transform: rotate(-360deg)};
+}
+ .content-wrap {
+  min-height: 100%;
+ }
+.home {
+  border: 5px solid black;
+  background: white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7%;
+  margin-bottom: 10%;
+}
+footer {
+  position:relative;
+  margin-top: -180px;
+  padding-top: 40px;
+  margin: auto;
+  bottom: 10px;
+  width: 100%;
+  height: 30px;
+  clear: both;
+}
+.background-credit {
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(200, 200, 200);
+  padding: 3px;
+  width: 20%;
+}
+
+.navbar {
+  margin:2%;
+}
+.collectors-list {
+  background-color: white;
+  border: solid 5px black;
+  width: 30%;
+  padding: 10px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 20%;
+  margin-right: 2%;
+}
+.link-container {
+  margin: auto;
+}
+.link {
+  width: 50%;
+  display: inline-block;
+  text-align: left;
+  margin-left: 2%;
+}
+.dlt-collector-div {
+  width: 10%;
+  float: right;
+  vertical-align: middle;
+  padding-top: 15px;
+  margin-right: 10%;
+}
+.add-collector-form {
+  border: 5px solid black;
+  background-color: rgb(255, 207, 255);
+  width: 20%;
+  padding: 10px;
+  float: right;
+  text-align: left;
+  margin-top: 20px;
+  margin-right: 20%;
+  margin-left: 2%;
+}
+.beanies-container {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center-beanies {
+  float: left;
+  border: solid red 10px;
+  width: 180px;
+  height: 200px;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: white;
+}
+.beanie-baby img {
+  border: solid ;
+  height: 140px;
+  width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.beanie-baby a {
+  display: block;
+  padding: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.beanie-baby {
+  display: contents;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.center-beanie {
+  border: solid black 10px;
+  width: 20%;
+  height: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: yellow;
+}
+.center-collection {
+  float: left;
+  border: solid black 3px;
+  background-color: rgb(148, 192, 251);
+  width: 290px;
+  height: 24%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.collector-beanie-babies {
+  display: contents;
+  height: 40%;
+  width: 40%;
+  margin-left: 3%;
+  margin-right: 13%;
+}
+.collector-beanie-babies img {
+  border: solid ;
+  height: 175px;
+  width: 175px;
+}
+
+.collector-beanie-babies h4 {
+  margin: auto;
+  padding-top: 3px;
+}
+
+.collector-beanie-babies h5 {
+  font-size: auto;
+  background-color: rgb(255, 240, 198);
+  height: 75px;
+  width: 270px;
+  margin: auto;
+  padding: 5px;
+}
+
+.create_btn, .add-btn, .edit-poem-btn {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin: 5px;
+  padding: 4px;
+  border: 2px solid black ;
+  color: white;
+  background-color: green;
+}
+
+.delete-btn {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4px;
+  border: 2px solid black ;
+  color: white;
+  background-color: red;
+}
+
+.add-beanie-form-toggle {
+  border: 4px solid;
+  width: 40%;
+  margin: auto;
+  background-color: rgb(148, 192, 251);
+}
+.add-beanie {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  width: 25%;
+  border: 4px solid black;
+  background: rgb(91, 212, 91);
+}
+
+.collector {
+  width: 90%;
+  height: auto;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+}
+
+label {
+  padding: 2px;
+  margin: 1%;
+}
+input, select, textarea {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 4px;
+  margin: 1%;
+  border: 1px solid black;
 }
