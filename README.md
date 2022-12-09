@@ -7,3 +7,13 @@
 
 ## What is the Beanie Baby Dealership app, and why is it useful?
 #### Has there ever been a time when you were selling collectable Beanie Babies after your great aunt passed away, and you had many collectors and their collections of Beanie Babies you needed to keep track of? Well, look no further, the Beanie Baby Dealership App is here to help you manage your database of Beanie Babies and collectors. You can add and remove collectors from the database, and you can add, edit, and delete Beanie Babies in each collector's collection.
+
+## Install
+### Frontend
+#### Enter the frontend folder in the terminal and type "npx install". To run the frontend server, type "npm start" in the terminal.
+### Backend
+#### Enter the backend folder in your terminal and run the command "rake db:migrate". After migrating, start the server by typing "bundle exec rake server" or "rake server" in the terminal.
+
+## Connect
+[![Foo](https://cdn-icons-png.flaticon.com/128/3992/3992606.png)](https://www.linkedin.com/in/irene-manning-3a287021a/)
+
