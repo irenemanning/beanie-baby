@@ -7,7 +7,7 @@ function EditPoemForm({beanieBaby, toggleForm, updatePoem}) {
     
     function handleSubmit(e) {
         e.preventDefault()
-        fetch(`http://localhost:9292/collectors/${beanieBaby.id}`, {
+        fetch(`http://localhost:9292/beaniebabies/${beanieBaby.id}`, {
             method: "PATCH",
             headers: {
                 'Accept' : "application/json",
