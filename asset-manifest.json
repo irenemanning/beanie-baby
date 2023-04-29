@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/beanie-baby/static/css/main.9d8cde38.css",
+    "main.js": "/beanie-baby/static/js/main.a69fe249.js",
+    "static/media/silver-glitter-background.jpg": "/beanie-baby/static/media/silver-glitter-background.1a56e09ba1dc68766ce5.jpg",
+    "index.html": "/beanie-baby/index.html",
+    "main.9d8cde38.css.map": "/beanie-baby/static/css/main.9d8cde38.css.map",
+    "main.a69fe249.js.map": "/beanie-baby/static/js/main.a69fe249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d8cde38.css",
+    "static/js/main.a69fe249.js"
+  ]
+}
